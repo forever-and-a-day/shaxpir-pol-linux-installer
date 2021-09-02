@@ -1,5 +1,7 @@
-# shaxpir-pol-linux-installer
-Unofficial PlayOnLinux Installation Script for Shaxpir
+
+# PlayOnLinux Installation Script for Shaxpir (Unofficial)
+
+![shaxpir-pol-installer-screenshot](https://user-images.githubusercontent.com/10383240/131783750-b40ccc48-663a-4ba7-be56-ee1b9d9ee189.png)
 
 ## Disclaimer
 This installer is unofficial, and is not endorsed, affiliated, or supported by Shaxpir in any way. The Shaxpir desktop application is proprietary software, and using it means you agree to its [Terms of Service](https://shaxpir.com/terms-of-service) and [Privacy Policy](https://shaxpir.com/privacy-policy). This work is done on my own free time out of personal interest and is not related to my employer. 
