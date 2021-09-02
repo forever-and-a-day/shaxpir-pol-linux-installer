@@ -3,7 +3,7 @@
 # Last revision : 2021-08-26
 # Wine version used : 5.22
 # Distribution used to test : Linux Mint 20 Cinnamon
-# Author : CamazingMe
+# Author : forever-and-a-day
 # Licence : Retail
 # Only For : http://www.playonlinux.com
 #
@@ -26,7 +26,7 @@ PREFIX="Shaxpir"
   
 # Starting the script
 POL_SetupWindow_Init
-POL_SetupWindow_presentation "$TITLE" "Shaxpir" "https://shaxpir.com/" "CamazingMe" "$PREFIX"
+POL_SetupWindow_presentation "$TITLE" "Shaxpir" "https://shaxpir.com/" "forever-and-a-day" "$PREFIX"
 
 POL_System_SetArch "x64"
 
