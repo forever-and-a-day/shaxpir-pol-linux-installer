@@ -48,7 +48,7 @@ POL_Wine_PrefixCreate "$WINEVERSION"
 cd "$POL_USER_ROOT/wineprefix/$PREFIX/drive_c/"
   
 cd "$POL_USER_ROOT/wineprefix/$PREFIX/drive_c/"
-POL_Download "https://s3.amazonaws.com/shaxpir-installers/install-shaxpir-4.5.12.exe"
+POL_Download "https://s3.amazonaws.com/shaxpir-installers/install-shaxpir-4.6.0.exe"
  
 # Installing Shaxpir
 POL_Wine_WaitBefore "$TITLE"
