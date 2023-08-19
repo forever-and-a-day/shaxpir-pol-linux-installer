@@ -52,7 +52,7 @@ POL_Download "https://s3.amazonaws.com/shaxpir-installers/install-shaxpir-4.6.0.
  
 # Installing Shaxpir
 POL_Wine_WaitBefore "$TITLE"
-POL_Wine "install-shaxpir-4.5.12.exe"
+POL_Wine "install-shaxpir-4.6.0.exe"
   
 # Make shortcut
 POL_Shortcut "Shaxpir.exe" "$TITLE" "" "" "Office;"
